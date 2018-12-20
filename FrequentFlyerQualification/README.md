@@ -67,3 +67,27 @@ Boundary Value Analysis
 -----------------------
 
 Now we need to pick the values for each of the test case scenarios identified in the decision table above. Given the status are defined by specific threshold, Boundary Value Analysis can help us identifying effective test cases. **Write a set of test cases using the boundaries for  Gold status.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test-Driven Kata
+----------------
+
+Implement tests and code for the following scenarios:
+
+- A frequent flyer earns status by flying at least the minimum miles required and spending at least the minimum amount required on flights
+- A frequent flyer cannot earn the status without spending at least the minimum required
+- A frequent flyer earns status by flying at least the minimum segments required and spending at least the minimum amount required on flights
+- A frequent flyer cannot earn the status without flying the minimum required miles or segments
