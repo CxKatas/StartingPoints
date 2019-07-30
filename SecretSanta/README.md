@@ -1,9 +1,9 @@
 Secret Santa Kata
 ==================
 
-Secret Santa is a Western Christmas tradition in which members of a group or community (e.g., family, co-workers) are assigned a person to whom they anonymously give a gift; thus “Secret Santa”.*
+Secret Santa is a Western Christmas tradition in which members of a group or community (e.g., family, co-workers) are assigned a person to whom they anonymously give a gift; thus “Secret Santa”.
 
-Assume you need to create a method or routine that will consume a list of participants and will produce a valid map (pairs) between the participants. 
+Assume you need to create a method or routine that will consume a list of participants and will produce a valid Secret Santa assignment between the participants. 
 
 Write the code following the **Three Laws of TDD**:
 
